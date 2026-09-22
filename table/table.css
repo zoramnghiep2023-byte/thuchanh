@@ -1,0 +1,28 @@
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+tr.header {
+  font-size: 25px;
+}
+tr.body_1,
+tr.body_2,
+tr.body_3 {
+  font-size: 14px;
+}
+tr.header:hover {
+  color: rgb(251, 57, 4);
+}
+tr.body_1:hover {
+  color: chartreuse;
+}
+tr.body_2:hover {
+  color: cadetblue;
+}
+tr.body_3:hover {
+  color: chocolate;
+}
+h3 {
+  color: blue;
+}
